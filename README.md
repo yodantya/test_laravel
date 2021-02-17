@@ -7,9 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## instalasi 
+- Run'composer install'
+- Setting file .env sesuai database
+- Run 'php artisan migrate'
+- Run 'php artisan key:generate'
+
 ## Login Page
 
-username/password : affan@gmail.com/12345678
+username/password : register first
 
 ## About Laravel
 
